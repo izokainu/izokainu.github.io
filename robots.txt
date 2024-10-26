@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izokainu.github.io/sitemap_index.izokainu
